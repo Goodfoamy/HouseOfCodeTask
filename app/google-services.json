@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487079491805",
+    "firebase_url": "https://houseofcodetask-98831.firebaseio.com",
+    "project_id": "houseofcodetask-98831",
+    "storage_bucket": "houseofcodetask-98831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487079491805:android:d16b85891a8f1e4c",
+        "android_client_info": {
+          "package_name": "houseofcode.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487079491805-npftsdcphngsjappa8c8b7mso9eag25u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "houseofcode.chatapplication",
+            "certificate_hash": "206c8ee3c023e734b07f21579e9f226c327e97ed"
+          }
+        },
+        {
+          "client_id": "487079491805-ouncbussb3ctti31qpp5god4htrv0ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WJXc8qpVBwfuXkjNzx5CwB_ok5uF_As"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487079491805-ouncbussb3ctti31qpp5god4htrv0ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
